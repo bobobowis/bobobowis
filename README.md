@@ -27,49 +27,48 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/withbowis/">
+  <a target="_blank" href="https://www.instagram.com/withbowis/">
     <img
       src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-  <a href="https://www.threads.net/@withbowis">
+  <a target="_blank" href="https://www.threads.net/@withbowis">
     <img
       src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"
       alt="Threads"
     />
   </a>
-  <a href="https://www.tiktok.com/@withbowis">
+  <a target="_blank" href="https://www.tiktok.com/@withbowis">
     <img
       src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
       alt="TikTok"
     />
   </a>
-  <a href="https://x.com/withbowis">
+  <a target="_blank" href="https://x.com/withbowis">
     <img
       src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"
       alt="X"
     />
   </a>
-  <a href="https://www.linkedin.com/in/withbowis/">
+  <a target="_blank" href="https://www.linkedin.com/in/withbowis/">
     <img
       src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge"
       alt="Linkedin"
     />
   </a>
-  <a href="https://www.youtube.com/@withbowis">
+  <a target="_blank" href="https://www.youtube.com/@withbowis">
     <img
       src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge"
       alt="Youtube"
     />
   </a>
-  <a href="https://medium.com/@withbowis">
+  <a target="_blank" href="https://medium.com/@withbowis">
     <img
       src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"
       alt="Medium"
     />
   </a>
-
 </div>
 
 <div align="center">
@@ -110,7 +109,7 @@
 
 <div align="center">
   <h3>Testing and automation</h2>
-  <img src="https://img.shields.io/badge/-@testing-library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/-@testing--library-000000?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" />
   <img src="https://img.shields.io/badge/-Jotai-000000?style=for-the-badge&logo=jotai&logoColor=white" alt="Jotai" />
   <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -146,15 +145,15 @@
 </div>
 
 <div align="center">
-    <h2>☕ Support</h2>
-    <p>If you enjoy my work or find my content helpful, you can support me to keep creating and sharing more! Your support helps me dedicate time to building innovative projects, crafting tutorials, and contributing to the tech community. You can buy me a coffee or support me on Ko-fi—every contribution, big or small, is greatly appreciated. Thank you for your generosity! ❤️</p>
-  <a href="https://buymeacoffee.com/withbowis">
+  <h2>☕ Support</h2>
+  <p>If you enjoy my work or find my content helpful, you can support me to keep creating and sharing more! Your support helps me dedicate time to building innovative projects, crafting tutorials, and contributing to the tech community. You can buy me a coffee or support me on Ko-fi—every contribution, big or small, is greatly appreciated. Thank you for your generosity! ❤️</p>
+  <a target="_blank"  href="https://buymeacoffee.com/withbowis">
     <img
       src="https://img.shields.io/badge/-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"
       alt="Buy Me A Coffee"
     />
   </a>
-    <a href="https://ko-fi.com/withbowis">
+  <a target="_blank" href="https://ko-fi.com/withbowis">
     <img
       src="https://img.shields.io/badge/-Kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=white"
       alt="Kofi"
