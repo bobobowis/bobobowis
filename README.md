@@ -1,9 +1,11 @@
-<h1>Hi there 👋, I'm Bowis</h1>
+<h1>Hi there 👋, I'm...</h1>
+
+![gh-banner](https://github.com/user-attachments/assets/5847a866-b362-4778-824e-e0be9f5abe86)
 
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>Welcome to my GH profile! I'm <b>Boris Ballester</b>, a tech enthusiast and digital artist from the beautiful Canary Islands, Spain. Surrounded by technology my entire life, I've developed a deep passion for innovation, creativity, and building new things. To me, almost anything is possible—it's just a matter of time!</p>
-</div>
+</div>   
 
 <ul>
   <li>
@@ -20,6 +22,10 @@
     ⚡ Fun fact: My debugging superpower is a hot cup of coffee—it’s like fuel for my code!
   </li>
 </ul>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/adb2b25c-d402-4b00-a77e-135c4699eecd" />
+</div>
 
 <div align="center">
   <h2>✨ Contact Me / Follow Me</h2>
