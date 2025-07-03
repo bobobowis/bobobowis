@@ -10,7 +10,7 @@
 <ul>
   <li>
     🔭 I’m currently working on 
-    <a href="https://amenitiz.com/" target="_blank">Amenitiz</a> as a Senior Software Engineer
+    <a href="https://typeform.com/" target="_blank">Typeform</a> as Software Engineer
   </li>
   <li>
     💬 Ask me anything about: Web development, UI/UX design, productivity hacks, AI, and more.
